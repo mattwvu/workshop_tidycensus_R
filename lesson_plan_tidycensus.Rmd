@@ -58,7 +58,7 @@ setwd("C:/Users/Matt/Documents/RWorkshop Development/workshop_tidycensus_spr23")
 
 #delete before exporting
 
-census_api_key("c7cfba7526aca64ac3e95fe6300116c36958ba29", install = TRUE, overwrite = TRUE)
+census_api_key("", install = TRUE, overwrite = TRUE)
 
 ```
 
