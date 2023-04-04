@@ -15,4 +15,9 @@ library(tigris)
 ### Set your working directory
 
 
+### Set your census api key
+
+census_api_key("", install = TRUE, overwrite = TRUE)
+
+
 
