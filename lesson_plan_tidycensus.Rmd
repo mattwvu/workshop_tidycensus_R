@@ -48,7 +48,7 @@ library(tigris)
 
 ```{r setwd, eval=FALSE}
 
-setwd("C:/Users/Matt/Documents/RWorkshop Development/workshop_tidycensus_spr23")
+setwd()
 
 ```
 
